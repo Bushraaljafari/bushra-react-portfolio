@@ -222,3 +222,67 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+# lab:05 Deploy and Extend Your Portfolio
+
+## [my portfplio](https://trello.com/b/4eZW09JG/bushra-portfolio) 😃
+
+## [my deployed site on netlify :](https://bushra-react-portfolio.netlify.app/)
+## [how to ](https://github.com/codefellows/code-301-react-portfolio-template)
+
+## Time Estimate
+
+### feature number 1
+Number and name of feature: feature 1,  Deploy
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 2:00 pm
+
+Finish time: 2:50 pm
+
+Actual time needed to complete: 50 mins
+
+### feature number 2
+Number and name of feature: feature 2, u Profile Page
+Estimate of time needed to complete: 30 mins
+
+Start time: 3:00 pm
+
+Finish time: 4:00 pm
+
+Actual time needed to complete: 1 hour
+
+### feature number 3
+Number and name of feature: feature 3,  Nav, Header and Footer
+Estimate of time needed to complete: 30 mins
+
+Start time: 4:30 pm
+
+Finish time: 5:10 pm
+
+Actual time needed to complete: 40 mins
+
+### feature number 4
+Number and name of feature: feature 4, Portfolio Page
+
+Estimate of time needed to complete: 20 mins
+
+Start time: 5:40 pm
+
+Finish time: 6:30 pm
+
+Actual time needed to complete: 50 mins
+
+### feature number 5
+Number and name of feature: feature 5, Personalize
+
+Estimate of time needed to complete: 10 mins
+
+Start time: 7:00 pm
+
+Finish time: 7:20 pm
+
+Actual time needed to complete: 20mins
+
+

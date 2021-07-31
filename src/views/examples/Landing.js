@@ -80,16 +80,14 @@ class Landing extends React.Component {
                 <div className="col px-0">
                   <Row>
                     <Col lg="6">
-                      <h1 className="display-3 text-white">
+                     {/* <h1 className="display-3 text-white">
                         A beautiful Design System{" "}
                         <span>completed with examples</span>
-                      </h1>
+    </h1>*/}
                       <p className="lead text-white">
-                        The design system comes with four pre-built pages to
-                        help you get started faster. You can change the text and
-                        images and you're good to go.
+                        i love to learn new thing actually every thing if it can ,and now i am loving learn about web developing .
                       </p>
-                      <div className="btn-wrapper">
+                      {/*<div className="btn-wrapper">
                         <Button
                           className="btn-icon mb-3 mb-sm-0"
                           color="info"
@@ -112,7 +110,7 @@ class Landing extends React.Component {
                             Download React
                           </span>
                         </Button>
-                      </div>
+  </div>*/}
                     </Col>
                   </Row>
                 </div>
@@ -148,22 +146,22 @@ class Landing extends React.Component {
                             <i className="ni ni-check-bold" />
                           </div>
                           <h6 className="text-primary text-uppercase">
-                            Download Argon
+                          201 project/Vip-coffee
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                           my team member and i built awebsit that you can ordar food and coffe any time online
+                           and you can have discount code by play agame
+                           using vanilla JavaScript,css,html 
                           </p>
                           <div>
                             <Badge color="primary" pill className="mr-1">
-                              design
+                              html
                             </Badge>
                             <Badge color="primary" pill className="mr-1">
-                              system
+                             css
                             </Badge>
                             <Badge color="primary" pill className="mr-1">
-                              creative
+                              JavaScript
                             </Badge>
                           </div>
                           <Button
@@ -184,22 +182,21 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                            Build Something
+                          301 project
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                            soon 
+                            
                           </p>
                           <div>
                             <Badge color="success" pill className="mr-1">
-                              business
+                            soon
                             </Badge>
                             <Badge color="success" pill className="mr-1">
-                              vision
+                            soon
                             </Badge>
                             <Badge color="success" pill className="mr-1">
-                              success
+                            soon
                             </Badge>
                           </div>
                           <Button
@@ -220,22 +217,20 @@ class Landing extends React.Component {
                             <i className="ni ni-planet" />
                           </div>
                           <h6 className="text-warning text-uppercase">
-                            Prepare Launch
+                          401 project
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                            soon
                           </p>
                           <div>
                             <Badge color="warning" pill className="mr-1">
-                              marketing
+                            soon
                             </Badge>
                             <Badge color="warning" pill className="mr-1">
-                              product
+                            soon
                             </Badge>
                             <Badge color="warning" pill className="mr-1">
-                              launch
+                              soon
                             </Badge>
                           </div>
                           <Button
@@ -254,7 +249,7 @@ class Landing extends React.Component {
               </Row>
             </Container>
           </section>
-          <section className="section section-lg">
+          {/*<section className="section section-lg">
             <Container>
               <Row className="row-grid align-items-center">
                 <Col className="order-md-2" md="6">
@@ -489,7 +484,7 @@ class Landing extends React.Component {
                 </Col>
               </Row>
             </Container>
-            {/* SVG separator */}
+            {/* SVG separator */}{/*
             <div className="separator separator-bottom separator-skew zindex-100">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -769,7 +764,7 @@ class Landing extends React.Component {
                 </Col>
               </Row>
             </Container>
-            {/* SVG separator */}
+            {/* SVG separator */}{/*
             <div className="separator separator-bottom separator-skew zindex-100">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -861,9 +856,9 @@ class Landing extends React.Component {
               </Row>
             </Container>
           </section>
-          <Download />
+                      <Download />*/}
         </main>
-        <CardsFooter />
+        {/*<CardsFooter />*/}
       </>
     );
   }
